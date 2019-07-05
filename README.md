@@ -5,18 +5,14 @@ This is meant as a repository for resources for teaching and learning various el
 
 Feel free to clone and/or edit. 
 
-## Film
+## Film and Television
 ### Visual Style and Technical Vocabulary
 #### Mise-en-scene/Cinematography
 #### Editing
 #### Sound
-### More General Film Studies
+### More General Film/TV Studies
 #### Criticism and Review
 #### Analysis and Theory
-## Television
-### Technical 
-### Review
-### Analysis
 
 ## Digital/Networked Media
 ### Streaming Media
