@@ -5,6 +5,8 @@ This is meant as a repository for resources for teaching and learning various el
 
 Feel free to clone and/or edit. 
 
+## General Resources
+[Media Studies Journals Cheat-Sheet](https://tcf.ua.edu/Classes/Jbutler/T440/MediaStudiesJournals.php) - A list of journals
 ## Film and Television
 ### Visual Style and Technical Vocabulary
 #### Mise-en-scene/Cinematography
