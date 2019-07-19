@@ -23,3 +23,8 @@ Feel free to clone and/or edit.
 ## Video Games
 ### Technical
 ### Analysis and Criticism
+
+## Open Access Media journals
+[Film Studies for Free list of OA resources](https://filmstudiesforfree.blogspot.com/p/fsff-online-film-media-studies-journals.html) A long "A-Z list of links to online, Open Access, English-language Film-Studies related e-journals and other relevant scholarly, periodical websites with at least some OA content." Publish date May 2014.
+[Jump Cut](http://www.ejumpcut.org/home.html) "Looking at media in its social and political context. Pioneers since 1974, analyzing media in relation to class, race, and gender."
+[Scope](https://www.nottingham.ac.uk/scope/issues/index.aspx) An online journal of film and television studies: ISSN 1465-9166. 1999-2014.
